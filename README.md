@@ -1,5 +1,6 @@
 A Simple E-commerce front page with HTML and CSS
-
+* Also used hover CSS property on all buttons and icons
+* The options in the navbar are anchor tags linked to direct to the detailed page
 
 ![1](https://github.com/user-attachments/assets/f2d8b512-a0ba-4cf9-8489-9a3a6b29b257)
 ![2](https://github.com/user-attachments/assets/e4d4ba15-3acc-426e-9c5f-873be8e31ac6)
